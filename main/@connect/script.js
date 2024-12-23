@@ -36019,23 +36019,23 @@ from your past games list.`,
     Bae = {
         EMPTY: "No Past Games Yet",
         MANAGE: "MANAGE",
-        TITLE: "YOUR PAST GAMES"
+        TITLE: "YOUR old GAMES"
     },
     Mae = {
         TITLE: "RECENT GAMES",
         VIEW_ALL: {
             BUTTON: "VIEW ALL",
-            LINK: "VIEW ALL PAST GAMES"
+            LINK: "VIEW ALL stinky and old GAMES"
         }
     },
     $ae = {
-        GAME_FULL: "Game is full",
-        GAME_STARTED: "Game has started",
-        ROOM_NOT_FOUND: "Room not found"
+        GAME_FULL: "Game is full, stinky mf",
+        GAME_STARTED: "Gaym has started",
+        ROOM_NOT_FOUND: "you using the right code?"
     },
     Kae = {
-        GAME_FULL: "GAME IS FULL",
-        GAME_STARTED: "GAME HAS STARTED",
+        GAME_FULL: "GAME IS FULL, stinky mf",
+        GAME_STARTED: "GAyM HAS STARTED",
         JOIN_AUDIENCE: "JOIN AUDIENCE",
         RECONNECT: "RECONNECT",
         TWITCH_LOGIN: "LOGIN WITH TWITCH"
@@ -36043,7 +36043,7 @@ from your past games list.`,
     kae = {
         CAMERA: "[b]HEADS UP:[/b] We’re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
         STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-        TOS: "By clicking {submit}, you agree to our [tos]Terms of Service[/tos]"
+        TOS: "By clicking {submit}, you agree to xured being able to steal your liver"
     },
     Gae = {
         BRANCH: wae,
