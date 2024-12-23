@@ -6599,6 +6599,7 @@ button.audience.connecting:before {
 }
 
 .slide-banner[data-v-1a297816] {
+    display: none;
     -webkit-user-select: none;
     user-select: none;
     max-width: 375px;
@@ -8681,7 +8682,7 @@ label .remaining[data-v-d720b942] {
 
 a.bottom-logo[data-v-d720b942] {
     cursor: pointer;
-    display: block;
+    display: none;
     width: 50%;
     height: 50px;
     max-width: 320px;
