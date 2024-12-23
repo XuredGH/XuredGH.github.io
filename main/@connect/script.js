@@ -24592,7 +24592,7 @@ const mj = {
         },
         WARNING: {
             DELETE: "Are you sure you want to delete this episode?",
-            TOS: "By sharing content, you agree to our [tos]Terms of Service[/tos]",
+            TOS: "By sharing content, you agree to xured being able to steal your liver",
             TOS_AGREE: "agree and share"
         },
         BACK_TO_EPISODES: "back to episodes",
@@ -24611,16 +24611,16 @@ const mj = {
         },
         RECONNECTED: {
             TEXT: "RECONNECTED",
-            SUBTEXT: "Have fun!"
+            SUBTEXT: "fucking shitty ass internet"
         },
         RECONNECTING: {
             CONTROLLER: {
                 TEXT: "CONNECTION INTERRUPTED",
-                SUBTEXT: "Attempting to reconnect ({attempt} of 5)"
+                SUBTEXT: "Attempting to reconnect ({attempt} of 5) just get better internet frfr."
             },
             GAME: {
                 TEXT: "GAME CONNECTION INTERRUPTED",
-                SUBTEXT: "Please wait while we attempt to reconnect"
+                SUBTEXT: "Please wait while we attempt to reconnect with yo shitty ass internet"
             }
         },
         PAUSED: {
