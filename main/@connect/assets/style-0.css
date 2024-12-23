@@ -6,7 +6,7 @@
     font-size: 18px;
     text-align: center;
     color: #000;
-    background-color: #eaeaea;
+    background-color: #120904;
     overflow-y: scroll
 }
 
@@ -4828,7 +4828,7 @@ button.twitch[data-v-db592987] {
     }
 
     to {
-        background: #3241ce
+        background: #d67738
     }
 }
 
@@ -7665,7 +7665,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .nav li.moderator a[data-v-d35c1006]:active {
-    background-color: #3241ce
+    background-color: #d67738
 }
 
 .nav li.social a[data-v-d35c1006] {
@@ -8387,7 +8387,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     width: 100%;
     height: calc(100% - 50px);
     padding: 0 15px;
-    background-color: #3241ce;
+    background-color: #d67738;
     overflow-y: auto;
     z-index: 99;
     transition: height .45s
