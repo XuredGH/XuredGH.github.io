@@ -384,6 +384,7 @@
 }
 
 .slide[data-v-2032aa39] {
+    display: none;
     position: absolute;
     display: flex;
     flex-direction: column;
@@ -398,30 +399,36 @@
 }
 
 .slide.left[data-v-2032aa39] {
+    display: none;
     opacity: 0;
     transform: translate(-75px) scale(.9)
 }
 
 .slide.right[data-v-2032aa39] {
+    display: none;
     opacity: 0;
     transform: translate(75px) scale(.9)
 }
 
 .slide .text[data-v-2032aa39] {
+    display: none;
     text-align: left;
     font-family: Helvetica, Arial, sans-serif
 }
 
 .slide .text h3[data-v-2032aa39] {
+    display: none;
     line-height: 1.2;
     padding-bottom: 6%
 }
 
 .slide .text ul[data-v-2032aa39] {
+    display: none;
     padding-left: 16px
 }
 
 .slide .text li[data-v-2032aa39] {
+    display: none;
     line-height: 1.2;
     padding-bottom: 5px
 }
@@ -447,6 +454,7 @@
 }
 
 .slide .image[data-v-2032aa39] {
+    display: none;
     width: 100%;
     flex-grow: 1;
     background-position: center bottom;
@@ -6604,17 +6612,19 @@ button.audience.connecting:before {
     user-select: none;
     max-width: 375px;
     margin: 18px auto 0;
-    -webkit-mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%);
-    mask-image: linear-gradient(to right, transparent 0%, white 10%, white 90%, transparent 100%)
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, white 0%, white 0%, transparent 0%);
+    mask-image: linear-gradient(to right, transparent 0%, white 0%, white 0%, transparent 0%)
 }
 
 .slide[data-v-1a297816] {
+    display: none;
     position: relative;
     display: block;
     overflow: hidden
 }
 
 .slide button[data-v-1a297816] {
+    display: none;
     width: auto;
     height: 100%;
     margin: 0;
@@ -6626,12 +6636,14 @@ button.audience.connecting:before {
 }
 
 .slide img[data-v-1a297816] {
+    display: none;
     width: 100%;
     height: auto;
     border-radius: 15px
 }
 
 .slide p[data-v-1a297816] {
+    display: none;
     position: absolute;
     width: 100%;
     top: 1px;
