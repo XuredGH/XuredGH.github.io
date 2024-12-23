@@ -272,9 +272,9 @@
 .jbg .loading[data-v-2032aa39]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-2032aa39 1.5s infinite ease-in-out
 }
@@ -315,11 +315,11 @@
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -470,7 +470,7 @@
 
 .arrow svg[data-v-2032aa39] {
     width: 100%;
-    stroke: #4254f4;
+    stroke: #F09219;
     stroke-width: 6px;
     fill: transparent;
     stroke-linecap: round;
@@ -498,7 +498,7 @@
 }
 
 .dots .dot.current[data-v-2032aa39] {
-    background: #4254f4;
+    background: #F09219;
     transform: scale(1.5)
 }
 
@@ -525,20 +525,20 @@
     float: right;
     padding: 0 20px;
     border-radius: 20px;
-    background: #4254f4;
+    background: #F09219;
     font-size: 17px;
-    box-shadow: 0 4px #0e167d;
+    box-shadow: 0 4px #5D3503;
     transition: box-shadow .2s
 }
 
 .buttons .next[data-v-2032aa39]:active,
 .buttons .done[data-v-2032aa39]:active {
-    box-shadow: 0 0 #0e167d
+    box-shadow: 0 0 #5D3503
 }
 
 .buttons .done[data-v-2032aa39] {
     background: #fff;
-    color: #4254f4;
+    color: #F09219;
     animation: done-pulse-2032aa39 .5s alternate infinite
 }
 
@@ -2850,7 +2850,7 @@ html.disable--interaction.show--consent body {
 }
 
 .power-nav li.active[data-v-3606a1e1] {
-    color: #4254f4
+    color: #F09219
 }
 
 .power-nav .option[data-v-3606a1e1] {
@@ -3051,9 +3051,9 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-c4b66a33]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-c4b66a33 1.5s infinite ease-in-out
 }
@@ -3094,11 +3094,11 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -3392,9 +3392,9 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-d0abff79]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-d0abff79 1.5s infinite ease-in-out
 }
@@ -3435,11 +3435,11 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -3692,9 +3692,9 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-420dd700]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-420dd700 1.5s infinite ease-in-out
 }
@@ -3735,11 +3735,11 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -3934,9 +3934,9 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-db592987]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-db592987 1.5s infinite ease-in-out
 }
@@ -3977,11 +3977,11 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -4185,9 +4185,9 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-2e99f2ab]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-2e99f2ab 1.5s infinite ease-in-out
 }
@@ -4228,11 +4228,11 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -4620,9 +4620,9 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-566a475d]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-566a475d 1.5s infinite ease-in-out
 }
@@ -4663,11 +4663,11 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -4708,7 +4708,7 @@ button.twitch[data-v-db592987] {
 .toast.reconnecting[data-v-566a475d],
 .toast.paused[data-v-566a475d] {
     border-top: 6px solid #FFF;
-    background: #4254f4
+    background: #F09219
 }
 
 .toast.generic .text[data-v-566a475d],
@@ -4805,7 +4805,7 @@ button.twitch[data-v-db592987] {
     right: 15px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #502E03;
     border-radius: 20px;
     animation: reconnecting-spinner-566a475d 1s infinite linear reverse
 }
@@ -4817,14 +4817,14 @@ button.twitch[data-v-db592987] {
     left: -6px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #502E03;
     border-bottom: 6px solid #FFF;
     border-radius: 20px
 }
 
 @keyframes reconnecting-background-566a475d {
     0% {
-        background: #4254f4
+        background: #F09219
     }
 
     to {
@@ -5043,9 +5043,9 @@ body {
 .jbg .loading[data-v-711f56b2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-711f56b2 1.5s infinite ease-in-out
 }
@@ -5086,11 +5086,11 @@ body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -5318,9 +5318,9 @@ hr[data-v-711f56b2] {
 .jbg .loading[data-v-47cae0dc]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-47cae0dc 1.5s infinite ease-in-out
 }
@@ -5361,11 +5361,11 @@ hr[data-v-711f56b2] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -5627,9 +5627,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-a6916483]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-a6916483 1.5s infinite ease-in-out
 }
@@ -5670,11 +5670,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -5914,7 +5914,7 @@ button.audience.connecting:before {
     padding: 0 10px;
     background: #fff;
     border-radius: 0 0 5px 5px;
-    color: #0e167d;
+    color: #5D3503;
     font-size: 12px;
     white-space: nowrap;
     transform: translate(-50%);
@@ -5927,14 +5927,14 @@ button.audience.connecting:before {
     width: 11px;
     height: 11px;
     margin-left: 1px;
-    fill: #0e167d
+    fill: #5D3503
 }
 
 .name[data-v-a6916483] {
     float: left;
     width: 75%;
     padding-top: 3px;
-    color: #0e167d;
+    color: #5D3503;
     font-size: 14px;
     text-transform: uppercase;
     transition: color .1s;
@@ -5997,7 +5997,7 @@ button.audience.connecting:before {
     height: 40px;
     padding: 7px;
     margin-left: -10px;
-    background: #0e167d;
+    background: #5D3503;
     border-radius: 20px;
     transform: rotate(15deg)
 }
@@ -6260,9 +6260,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-b57c3cb3]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-b57c3cb3 1.5s infinite ease-in-out
 }
@@ -6303,11 +6303,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -6541,9 +6541,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-1a297816]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-1a297816 1.5s infinite ease-in-out
 }
@@ -6584,11 +6584,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -6852,9 +6852,9 @@ button.audience.connecting:before {
 .jbg .loading[data-v-727b0bbe]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-727b0bbe 1.5s infinite ease-in-out
 }
@@ -6895,11 +6895,11 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -6962,7 +6962,7 @@ li.appearance svg[data-v-727b0bbe] {
 }
 
 li.appearance svg .frame[data-v-727b0bbe] {
-    fill: #0e167d;
+    fill: #5D3503;
     stroke-width: 2.5px
 }
 
@@ -7196,9 +7196,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-4e7c2aa2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-4e7c2aa2 1.5s infinite ease-in-out
 }
@@ -7239,11 +7239,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -7474,9 +7474,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d35c1006]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-d35c1006 1.5s infinite ease-in-out
 }
@@ -7517,11 +7517,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -7654,7 +7654,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .nav li.moderator a[data-v-d35c1006] {
     color: #fff;
     border: 5px solid #c7c7c7;
-    background-color: #0e167d;
+    background-color: #5D3503;
     transition: background-color .25s
 }
 
@@ -7888,9 +7888,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-40ec1b21]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-40ec1b21 1.5s infinite ease-in-out
 }
@@ -7931,11 +7931,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -7976,7 +7976,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     height: auto;
     padding: 3px 10px 2px;
     margin: 0;
-    background: #0e167d;
+    background: #5D3503;
     font-size: 12px;
     box-shadow: none
 }
@@ -7991,12 +7991,12 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .data[data-v-40ec1b21] {
     margin: 25px 0 10px;
     padding-top: 15px;
-    border-top: 1px solid #0E167D;
+    border-top: 1px solid #502E03;
     text-align: center
 }
 
 .data button[data-v-40ec1b21] {
-    background: #0e167d;
+    background: #5D3503;
     box-shadow: none;
     height: auto;
     padding: 10px;
@@ -8191,9 +8191,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-604bf824]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-604bf824 1.5s infinite ease-in-out
 }
@@ -8234,11 +8234,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -8262,7 +8262,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     left: 0;
     height: 50px;
     width: 100%;
-    background: #4254f4;
+    background: #F09219;
     z-index: 100
 }
 
@@ -8589,9 +8589,9 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d720b942]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #502E03;
     border-radius: 50%;
-    background: #4254f4;
+    background: #F09219;
     animation-fill-mode: both;
     animation: loading-d720b942 1.5s infinite ease-in-out
 }
@@ -8632,11 +8632,11 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #5D3503
     }
 
     50% {
-        background-color: #4254f4
+        background-color: #F09219
     }
 }
 
@@ -8746,7 +8746,7 @@ body {
     --cc-btn-primary-bg: #ff4500;
     --cc-btn-primary-color: #E0E0E0;
     --cc-btn-primary-border-color: #E0E0E0;
-    --cc-btn-primary-hover-bg: #0E167D;
+    --cc-btn-primary-hover-bg: #502E03;
     --cc-btn-primary-hover-color: #E0E0E0;
     --cc-separator-border-color: #4254F4
 }
