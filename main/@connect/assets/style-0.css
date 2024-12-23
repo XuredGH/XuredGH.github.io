@@ -5962,7 +5962,7 @@ button.audience.connecting:before {
     left: 0;
     width: 100px;
     padding: 55px 0 1px;
-    background: #0a1420d9;
+    background: #853704;
     color: #fff;
     font-size: 12px;
     text-align: center;
@@ -8748,5 +8748,5 @@ body {
     --cc-btn-primary-border-color: #E0E0E0;
     --cc-btn-primary-hover-bg: #502E03;
     --cc-btn-primary-hover-color: #E0E0E0;
-    --cc-separator-border-color: #4254F4
+    --cc-separator-border-color: #ed6205
 }
