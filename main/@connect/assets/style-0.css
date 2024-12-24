@@ -104,7 +104,7 @@
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -119,7 +119,7 @@
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -2883,7 +2883,7 @@ html.disable--interaction.show--consent body {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -2898,7 +2898,7 @@ html.disable--interaction.show--consent body {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -3224,7 +3224,7 @@ html.disable--interaction.show--consent body {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -3239,7 +3239,7 @@ html.disable--interaction.show--consent body {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -3524,7 +3524,7 @@ hr[data-v-d0abff79] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -3539,7 +3539,7 @@ hr[data-v-d0abff79] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -3766,7 +3766,7 @@ hr[data-v-d0abff79] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -3781,7 +3781,7 @@ hr[data-v-d0abff79] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -4017,7 +4017,7 @@ button.twitch[data-v-db592987] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -4032,7 +4032,7 @@ button.twitch[data-v-db592987] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -4452,7 +4452,7 @@ button.twitch[data-v-db592987] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -4467,7 +4467,7 @@ button.twitch[data-v-db592987] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -4875,7 +4875,7 @@ body {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -4890,7 +4890,7 @@ body {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -5150,7 +5150,7 @@ hr[data-v-711f56b2] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -5165,7 +5165,7 @@ hr[data-v-711f56b2] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -5459,7 +5459,7 @@ button.audience.connecting:before {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -5474,7 +5474,7 @@ button.audience.connecting:before {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -6092,7 +6092,7 @@ button.audience.connecting:before {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -6107,7 +6107,7 @@ button.audience.connecting:before {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -6373,7 +6373,7 @@ button.audience.connecting:before {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -6388,7 +6388,7 @@ button.audience.connecting:before {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -6684,7 +6684,7 @@ button.audience.connecting:before {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -6699,7 +6699,7 @@ button.audience.connecting:before {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -7028,7 +7028,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -7043,7 +7043,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -7306,7 +7306,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -7321,7 +7321,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -7720,7 +7720,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -7735,7 +7735,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -8023,7 +8023,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -8038,7 +8038,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
@@ -8421,7 +8421,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     --inputPrimary: #FBAE4E;
     --inputSecondary: #FCCE93;
     --textPrimary: #f5f7f7;
-    --textSecondary: #8c939c;
+    --textSecondary: #0d0d0d;
     --textButton: #f5f7f7;
     color-scheme: dark
 }
@@ -8436,7 +8436,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
         --inputPrimary: #FBAE4E;
         --inputSecondary: #FCCE93;
         --textPrimary: #f5f7f7;
-        --textSecondary: #8c939c;
+        --textSecondary: #0d0d0d;
         --textButton: #f5f7f7;
         color-scheme: dark
     }
